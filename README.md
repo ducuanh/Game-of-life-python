@@ -8,3 +8,6 @@ Ta aplikacja napisana w Pythonie to graficzna implementacja Gry w Życie Conwaya
 * **Dostosowywanie Prędkości Symulacji**: Dostosuj prędkość symulacji, aby obserwować ewolucję wzorców we własnym tempie.
 * **Śledzenie Pokoleń i Liczby Żywych Komórek**: Śledź liczbę pokoleń, które minęły, oraz aktualną liczbę żywych komórek, dostarczając wglądu w cykl życia Twoich konfiguracji.
 * **Powstawanie Złożonych Wzorców**: Bądź świadkiem powstawania złożonych wzorców z prostych stanów początkowych, demonstrując piękno zjawisk matematycznych.
+  
+# Język programowania: 
+* [Python]
